@@ -1,0 +1,2 @@
+# Data acquisition
+In order to get training data we want to download image data from [mushroomobserver.org](https://mushroomobser.org). We plan to write a python script that goes through the input CSV and downloads the data to our local drive. We already set up a raspberry pi as a local development server.
